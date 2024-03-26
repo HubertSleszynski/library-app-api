@@ -1,6 +1,6 @@
 # LIBRARY APP API
 
-This web application is a minimalist tool for quickly accessing book information. The straightforward search allows you to input the title, and instantly receive essential details, letting you focus solely on what matters most - the content of the books. Fast, convenient, and without any unnecessary clutter.
+This web application is a minimalist tool for quickly accessing book information. The straightforward search allows you to input the title, and instantly receive essential details, letting you focus solely on what matters most - the content of the books. Fast, convenient, and without any unnecessary clutter. The app uses Open Library Search API.
 
 ## Demo
 
@@ -12,7 +12,7 @@ LIVE: [LIBRARY APP](https://hubert-sleszynski-library.netlify.app/)
 
 ## Tech Stack
 
-Yarn Vite React CSS
+Yarn Vite React CSS OpenLibrarySearchAPI
 
 ## Author
 
