@@ -18,7 +18,7 @@ Yarn Vite React CSS OpenLibrarySearchAPI
 
 ### Hubert Śleszyński
 
-Portfolio: https://hubertsleszynski.github.io/portfolio/
+Portfolio: https://hrs-dev.netlify.app/
 
 Linkedin: https://www.linkedin.com/in/hubert-%C5%9Bleszy%C5%84ski-74b755231/
 
